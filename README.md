@@ -6,6 +6,9 @@
 This project documents insights derived from reviewing content performance data.
 The objective was not to identify top-performing posts, but to understand **why users disengage**.
 
+<img width="754" height="424" alt="Linkedin Analytics 2025" src="https://github.com/user-attachments/assets/57b53e67-0438-4cab-b446-368eca2549b1" />
+
+
 ## Audience Profile
 
 Based on platform analytics:
